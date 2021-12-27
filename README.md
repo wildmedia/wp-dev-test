@@ -18,11 +18,9 @@ This is a test project to assess a wordpress developer's skills.
     - The video category once saved should not be saved again but attached to next videos that have the same category.
 - I should also be able to select which videos I want to import and also have its preview before importing them.
 - If any channel or user has a lot of videos, there will be pagination for them as well.
-- As an admin, I should be able to search and delete any individual video.
-- As an admin, I should be able to bulk delete videos.
 - Make the videos playable on frontend via an iframe.
 
 ### Documentation
 - Add code comments as needed to improve the ability for another developer to finish this project.
 - Update the README with a brief written summary of what's been completed and what still needs to be done.
-- Update the README Any other feedback including which features could be refactored or improved.
+- Update the README with any other feedback including which features could be refactored or improved.
